@@ -1,2 +1,2 @@
-# multiarch-r-shiny
-MultiArch R with Shiny Server
+# multiarch-r
+MultiArch R Lang Image
